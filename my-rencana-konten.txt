@@ -3,6 +3,8 @@ Rencana Konten
 - javascript
   *ES6
   *Framework javascript
+   ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - Vlog
