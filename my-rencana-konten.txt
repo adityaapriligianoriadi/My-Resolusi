@@ -3,5 +3,6 @@ Rencana Konten
 - javascript
   *ES6
   *Framework javascript
+- Struktur Data Dasar
 - PHP Framework
 - Vlog
